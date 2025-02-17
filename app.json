@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "catfacts",
-    "slug": "catfacts",
+    "name": "dogpics",
+    "slug": "dogpics",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
